@@ -5,11 +5,11 @@ Please refer [project page](https://akashagupta.com/ALANET.html) for more detail
 
 ## Citation
 ```
-@inproceedings{gupta2020adversarial,
-  title={Adversarial Knowledge Transfer from Unlabeled Data},
-  author={Gupta, Akash and Panda, Rameswar and Paul, Sujoy and Zhang, Jianming and Roy-Chowdhury, Amit K},
+@inproceedings{gupta2020alanet,
+  title={ALANET: Adaptive Latent Attention Network for Joint Video Deblurring and Interpolation},
+  author={Gupta, Akash and Aich, Abhishek and Roy-Chowdhury, Amit K},
   booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
-  pages={2175--2183},
+  pages={256--264},
   year={2020}
 }
 ```
