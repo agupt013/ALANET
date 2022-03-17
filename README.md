@@ -11,7 +11,7 @@ Run the following script to generate data that can be used for training and test
 ```
 cd data
 
-python create_dataset.py --ffmpeg_dir <path-to-ffmpeg-dir>              \
+python create_dataset.py --ffmpeg_dir <path-to-ffmpeg-dir>            \
                          --dataset_folder <path-to-store-video-data>  \
                          --videos_folder ./dataset
 ```
