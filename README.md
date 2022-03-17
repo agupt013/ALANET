@@ -1,7 +1,7 @@
 # ALANET: Adaptive Latent Attention Network for Joint Video Deblurring and Interpolation
 
 Implementation of our paper titled "[ALANET: Adaptive Latent Attention Network for Joint Video Deblurring and Interpolation](https://arxiv.org/abs/2009.01005)" accepted to [ACM-MM 2020](https://2020.acmmm.org/).
-Please refer [project page](https://akashagupta.com/ALANET.html) for more details. This is old version of the code. Some files may be outdated. I have also attached one checkpoint for the model.
+Please refer [project page](https://akashagupta.com/publication/acm2020_alanet/project.html) for more details. This is old version of the code. Some files may be outdated. I have also attached one checkpoint for the model.
 
 ## Dataset Processing
 Download data video dataset and copy it to './dataset/ ' directory.
